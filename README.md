@@ -1,2 +1,2 @@
 # Openmv-for-NXPCarRacing
-存活了一年的智能车竞赛创意组，openmv图像识别
+第十二届智能车竞赛创意组-四旋翼导航组
